@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1220,100:7dd3fc&amp;height=230&amp;section=header&amp;text=Vikas&amp;fontSize=64&amp;fontColor=7dd3fc&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=AI%20%26%20Data%20Science%20Engineering%20Student%20%7C%20AI%2FML%20Developer&amp;descSize=18&amp;descAlignY=58&amp;descColor=e2e8f0" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1220,100:7dd3fc&amp;height=230&amp;section=header&amp;text=Vikas&amp;fontSize=64&amp;fontColor=7dd3fc&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=AI%20and%20Data%20Science%20Engineering%20Student%20%7C%20AI%2FML%20Developer&amp;descSize=18&amp;descAlignY=58&amp;descColor=e2e8f0" alt="header" />
 
 <a href="https://github.com/vikasbalaji1717">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Aspiring+AI+Engineer;AI%2FML+Developer+%7C+Python+%7C+FastAPI+%7C+React;Building+QuantumShield+SOC+%26+NetForecast+AI;Cybersecurity+meets+Generative+AI" alt="Typing SVG" />
@@ -21,7 +21,7 @@
 
 ```typescript
 const vikas = {
-  title: "AI & Data Science Engineering Student | AI/ML Developer | Aspiring AI Engineer",
+  title: "AI and Data Science Engineering Student | AI/ML Developer | Aspiring AI Engineer",
   stack: {
     languages: ["Python", "C++", "JavaScript"],
     frontend: ["React", "Tailwind CSS"],
@@ -90,7 +90,7 @@ An AI-driven network security platform that analyzes network traffic, predicts p
 **Backend**<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,flask&amp;theme=dark" alt="backend" />
 
-**AI & Databases** (Ollama · LLMs · Generative AI)<br/>
+**AI and Databases** (Ollama · LLMs · Generative AI)<br/>
 <img src="https://skillicons.dev/icons?i=ollama,neo4j,mysql,supabase&amp;theme=dark" alt="ai and databases" />
 
 **Cloud & DevOps**<br/>
