@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1220,100:7dd3fc&amp;height=230&amp;section=header&amp;text=Vikas%20Balaji&amp;fontSize=64&amp;fontColor=7dd3fc&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=AI%20%26%20Data%20Science%20Engineering%20Student&amp;descSize=18&amp;descAlignY=58&amp;descColor=e2e8f0" alt="Vikas Balaji header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1220,100:7dd3fc&amp;height=230&amp;section=header&amp;text=Vikas%20Balaji&amp;fontSize=64&amp;fontColor=7dd3fc&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=AI%20%26%20Data%20Science%20Engineering%20Student&amp;descSize=18&amp;descAlignY=58&amp;descColor=e2e8f0" alt="header" />
 
 <a href="https://github.com/vikasbalaji1717">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Aspiring+AI+Engineer;AI%2FML+Developer+%7C+Python+%7C+FastAPI+%7C+React;Building+QuantumShield+SOC+%26+NetForecast+AI;Cybersecurity+meets+Generative+AI" alt="Typing SVG" />
