@@ -20,7 +20,7 @@
 ## 🧠 Who I Am
 
 ```typescript
-const vikas = {
+const VIKAS BALAJI= {
   title: "AI and Data Science Engineering Student | AI/ML Developer | Aspiring AI Engineer",
   stack: {
     languages: ["Python", "C++", "JavaScript"],
